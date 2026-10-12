@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Fabio
 
-<!--
-**fabiodrk/fabiodrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building a portfolio in data analytics, Python, SQL, and machine learning, turning academic projects into documented examples that others can explore and run.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What you can explore | Tools |
+| --- | --- | --- |
+| [Open Food Facts ingestion pipeline](https://github.com/fabiodrk/open-food-facts-pipeline) | Product validation, incremental ingestion, MySQL integration, and an offline demo | Python, SQL, AWS Lambda |
+| [Streaming playlist analyzer](https://github.com/fabiodrk/streaming-playlist-analyzer) | Catalogue validation, playlist repair, round-robin mixing, and report generation | Python |
+
+## Current focus
+
+- Making data preparation and validation clear and reproducible.
+- Using Python and SQL to answer practical questions.
+- Documenting project scope, setup steps, and limitations honestly.
+
+These repositories are learning projects. Each README explains what runs locally and which integrations require additional setup.
